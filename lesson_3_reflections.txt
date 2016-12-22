@@ -5,3 +5,7 @@ When I am using more than 1 work stations or when I am working in a group projec
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Automatic changes may result in inadvertant changes in the offline repository which is undesirable.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks is like cloning from an online repository
