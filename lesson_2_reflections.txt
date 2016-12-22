@@ -14,3 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches are helpful when we want to make a change but still want to keep the master node intact. This is useful when we want to do some experimentation or want to add a language feature.
 
+How do the diagrams help you visualize the branch structure?
+
+While using the git log command some commits are not shown as they are unreachable. In order to view all commits and the structure we use diagrams.
