@@ -17,3 +17,8 @@ Branches are helpful when we want to make a change but still want to keep the ma
 How do the diagrams help you visualize the branch structure?
 
 While using the git log command some commits are not shown as they are unreachable. In order to view all commits and the structure we use diagrams.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging the branches takes into account the root node from which the two nodes emerged. A line which is added in either of the two branches but is not there in root node is added to the merged node. A line which is present in the root node but not present in either of the branches is deleted from the merged node.
+
