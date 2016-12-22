@@ -22,3 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging the branches takes into account the root node from which the two nodes emerged. A line which is added in either of the two branches but is not there in root node is added to the merged node. A line which is present in the root node but not present in either of the branches is deleted from the merged node.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is useful when the merging is straight-forward. However in  the case of complex merging, we would prefer to do manual merging as we may not want git to make unnecessary change.
